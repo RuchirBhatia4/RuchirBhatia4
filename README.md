@@ -105,11 +105,13 @@ class Ruchir:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Multimodal In-Vehicle AI Assistant</h3>
-      <p>A real-time voice-and-vision AI agent. Whisper ASR and a vision-language model reason together over live audio, text and images.</p>
+      <h3>🚗 <a href="https://github.com/RuchirBhatia4/Multimodal-In-Vehicle-AI-Assistant">Multimodal In-Vehicle AI Assistant</a></h3>
+      <p>An on-device co-pilot that watches the road (YOLO + tracking + time-to-collision), watches the driver (a drowsiness alert tested on held-out drivers: 5/6 caught, 0 false alarms/h), and answers by voice (Whisper → 4-bit vision-language model with tool calling).</p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO11-111F68?style=flat-square" />
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
       <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai" />
-      <img src="https://img.shields.io/badge/VLM-6E40C9?style=flat-square" />
+      <img src="https://img.shields.io/badge/MLX%204--bit%20VLM-6E40C9?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>🧠 RAG Healthcare Chatbot <sup>(Patented)</sup></h3>
