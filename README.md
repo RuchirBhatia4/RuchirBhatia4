@@ -17,8 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RuchirBhatia4&label=Profile%20views&color=36BCF7&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/RuchirBhatia4?label=Followers&style=flat-square&color=36BCF7" />
   <img src="https://img.shields.io/badge/Open%20to%20work-SWE%20%7C%20ML-2ea44f?style=flat-square" />
 </p>
 
