@@ -157,17 +157,6 @@ class Ruchir:
 
 ---
 
-## 🐍 Contribution Snake
-
-<!-- Generated daily by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuchirBhatia4/RuchirBhatia4/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuchirBhatia4/RuchirBhatia4/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/RuchirBhatia4/RuchirBhatia4/output/github-snake.svg" />
-</picture>
-
----
-
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&type=horizontal" />
 </p>
